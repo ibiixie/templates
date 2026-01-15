@@ -1,0 +1,9 @@
+[package]
+name = "my-rust-project"
+description = "Description of my-rust-project"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+authors = [ "biixie <no-reply@biixie.com" ]
+
+[dependencies]
